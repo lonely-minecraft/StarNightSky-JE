@@ -1,0 +1,8 @@
+Star data: Yale Bright Star Catalogue, 5th Revised Ed. (Hoffleit & Warren 1991), via CDS (catalog V/50).
+Constellation lines: d3-celestial, Copyright (c) 2015 Olaf Frohn, BSD 3-Clause License. https://github.com/ofrohn/d3-celestial
+Constellation names: d3-celestial (same license as above). Font: Noto Sans JP, SIL Open Font License 1.1.
+Constellation art: Sidney Hall, "Urania's Mirror" (London, Samuel Leigh, 1824), public domain. Scans from Wikimedia Commons (category "Urania's Mirror"), many restored by Adam Cuerden from cards owned by John Dolby. https://commons.wikimedia.org/wiki/Category:Urania%27s_Mirror
+The cards were fitted to the sky by their stars (Yale BSC5) and clipped to the constellation boundaries (d3-celestial); the paper was turned black.
+Sky texture: NASA/Goddard Space Flight Center Scientific Visualization Studio.
+Gaia DR2: ESA/Gaia/DPAC.
+https://svs.gsfc.nasa.gov/4851
