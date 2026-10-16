@@ -76,5 +76,5 @@ Thanks to FlashyReese for [Nuit](https://modrinth.com/mod/nuit), the mod that ma
 
 ## 作者
 
-lonely-minecraft.blogspot.com
-<https://lonely-minecraft.blogspot.com/>
+damun-craft.com
+<https://damun-craft.com/>
